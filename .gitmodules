@@ -1,0 +1,6 @@
+[submodule "crypto"]
+	path = crypto
+	url = https://github.com/B-Con/crypto-algorithms.git
+[submodule "jsmn"]
+	path = jsmn
+	url = https://github.com/zserge/jsmn.git
